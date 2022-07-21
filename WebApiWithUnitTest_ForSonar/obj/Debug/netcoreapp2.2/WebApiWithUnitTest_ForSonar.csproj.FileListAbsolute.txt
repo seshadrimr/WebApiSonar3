@@ -1,0 +1,14 @@
+C:\Users\239914\Source\Repos\WebApiWithUnitTest_ForSonar\WebApiWithUnitTest_ForSonar\bin\Debug\netcoreapp2.2\WebApiWithUnitTest_ForSonar.deps.json
+C:\Users\239914\Source\Repos\WebApiWithUnitTest_ForSonar\WebApiWithUnitTest_ForSonar\bin\Debug\netcoreapp2.2\WebApiWithUnitTest_ForSonar.runtimeconfig.json
+C:\Users\239914\Source\Repos\WebApiWithUnitTest_ForSonar\WebApiWithUnitTest_ForSonar\bin\Debug\netcoreapp2.2\WebApiWithUnitTest_ForSonar.runtimeconfig.dev.json
+C:\Users\239914\Source\Repos\WebApiWithUnitTest_ForSonar\WebApiWithUnitTest_ForSonar\bin\Debug\netcoreapp2.2\WebApiWithUnitTest_ForSonar.dll
+C:\Users\239914\Source\Repos\WebApiWithUnitTest_ForSonar\WebApiWithUnitTest_ForSonar\bin\Debug\netcoreapp2.2\WebApiWithUnitTest_ForSonar.pdb
+C:\Users\239914\Source\Repos\WebApiWithUnitTest_ForSonar\WebApiWithUnitTest_ForSonar\obj\Debug\netcoreapp2.2\WebApiWithUnitTest_ForSonar.csprojAssemblyReference.cache
+C:\Users\239914\Source\Repos\WebApiWithUnitTest_ForSonar\WebApiWithUnitTest_ForSonar\obj\Debug\netcoreapp2.2\WebApiWithUnitTest_ForSonar.csproj.CoreCompileInputs.cache
+C:\Users\239914\Source\Repos\WebApiWithUnitTest_ForSonar\WebApiWithUnitTest_ForSonar\obj\Debug\netcoreapp2.2\WebApiWithUnitTest_ForSonar.RazorAssemblyInfo.cache
+C:\Users\239914\Source\Repos\WebApiWithUnitTest_ForSonar\WebApiWithUnitTest_ForSonar\obj\Debug\netcoreapp2.2\WebApiWithUnitTest_ForSonar.RazorAssemblyInfo.cs
+C:\Users\239914\Source\Repos\WebApiWithUnitTest_ForSonar\WebApiWithUnitTest_ForSonar\obj\Debug\netcoreapp2.2\WebApiWithUnitTest_ForSonar.AssemblyInfoInputs.cache
+C:\Users\239914\Source\Repos\WebApiWithUnitTest_ForSonar\WebApiWithUnitTest_ForSonar\obj\Debug\netcoreapp2.2\WebApiWithUnitTest_ForSonar.AssemblyInfo.cs
+C:\Users\239914\Source\Repos\WebApiWithUnitTest_ForSonar\WebApiWithUnitTest_ForSonar\obj\Debug\netcoreapp2.2\WebApiWithUnitTest_ForSonar.RazorTargetAssemblyInfo.cache
+C:\Users\239914\Source\Repos\WebApiWithUnitTest_ForSonar\WebApiWithUnitTest_ForSonar\obj\Debug\netcoreapp2.2\WebApiWithUnitTest_ForSonar.dll
+C:\Users\239914\Source\Repos\WebApiWithUnitTest_ForSonar\WebApiWithUnitTest_ForSonar\obj\Debug\netcoreapp2.2\WebApiWithUnitTest_ForSonar.pdb
