@@ -43,5 +43,7 @@ jobs:
         shell: powershell
         run: |
           .\.sonar\scanner\dotnet-sonarscanner begin /k:"seshadrimr_WebApiSonar3" /o:"seshadrimr" /d:sonar.login="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io"
+          dotnet sonarscanner begin /k:"project-key" /o:"<organization>" /d:sonar.login="<token>"
           dotnet build /WebApiWithUnitTest_ForSonar.sln
+          dotnet sonarscanner end /d:sonar.login="<token>"
           .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.login="${{ secrets.SONAR_TOKEN }}"
